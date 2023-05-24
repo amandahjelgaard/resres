@@ -17,19 +17,17 @@ module.exports = {
       // => @media (min-width: 1280px and max-width: 1535px) { ... }
     },
     colors: {
-      deepgreen: "#76887D",
-      green: "#4CA154",
-      grey: "#E6E6E6",
-      purple: "#4D4775",
-      hoverknap: "#157A3B",
+      beige: "#F2F0EA",
+      darkbeige: "#E6DFD0",
+      nyhedsbrevknap: "#000000",
       white: "#FFFFFF",
-      black: "#000000",
-      blue: "#4D4775",
+      produktkort: "#D4FAFF",
+      knap: "#A89D84",
+      hoverknap: "#807662",
     },
 
     fontFamily: {
       roboto: "roboto",
-      yesevaone: "yesevaone",
     },
 
     fontSize: {
